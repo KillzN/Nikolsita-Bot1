@@ -1,4 +1,4 @@
-// 𝗞𝗜𝗟𝗟 - 𝗕𝗢𝗧 @ineffable.mvrco - _antilink.js
+// 𝐍𝐈𝐊𝐎𝐋𝐒𝐈𝐓𝐀 𝐁𝐎𝐓 @ineffable.mvrco - _antilink.js
 
   
 const linkRegex = /chat.whatsapp.com\/([0-9A-Za-z]{20,24})/i;

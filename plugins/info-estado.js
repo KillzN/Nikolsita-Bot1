@@ -28,11 +28,11 @@ const handler = async (m, { conn, usedPrefix }) => {
   const old = performance.now();
   const neww = performance.now();
   const rtime = (neww - old).toFixed(7);
-  const wm = '𝗞𝗜𝗟𝗟 - 𝗕𝗢𝗧';
+  const wm = '𝐍𝐈𝐊𝐎𝐋𝐒𝐈𝐓𝐀 𝐁𝐎𝐓';
   const info = ` ${tradutor.texto1[0]}
 
   ${tradutor.texto1[1]} KillzN
-  ${tradutor.texto1[2]} +56983073328
+  ${tradutor.texto1[2]} +50671453710
   ${tradutor.texto1[3]} https://chat.whatsapp.com/FFB0fgdK3IP4ZEmZ8jF1CC
 
   ${tradutor.texto1[4]} ${rtime}
